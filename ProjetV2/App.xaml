@@ -1,0 +1,10 @@
+﻿<Application x:Class="ProjetV2.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             StartupUri="MainWindow.xaml">
+    <!-- Définissez votre chemin de page de démarrage ici -->
+    <Application.Resources>
+        
+        <!-- Ressources de l'application -->
+    </Application.Resources>
+</Application>
